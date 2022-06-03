@@ -15,3 +15,24 @@ Now I am motivated to take the course and become a front-end developer asap.
 
 
 > “If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.” — Steve Jobs
+
+## Skills
+- HTML 
+- CSS
+- C++
+- GitHub, Git (version control) with Git Bash
+- Figma
+- Soft skills
+
+## Code example
+```
+function createElement (tag, className){
+    const $tag = document.createElement (tag);
+
+    if (className){
+        $tag.classList.add(className);
+    }
+    
+    return $tag;
+}
+```
