@@ -36,3 +36,12 @@ function createElement (tag, className){
     return $tag;
 }
 ```
+## Education
+- Belarusian State University
+  - Faculty of Mechanics and Mathematics
+  - Faculty of Radio Physics and Computer Technologies
+- Stepic free course 
+  - [HTML/CSS](https://stepik.org/certificate/c2de2fd60f755dfa42adaf16dd339eee314f28aa.pdf)
+
+## Experience
+Only study tasks
