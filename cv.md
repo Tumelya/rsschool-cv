@@ -45,3 +45,8 @@ function createElement (tag, className){
 
 ## Experience
 Only study tasks
+
+## Languages
+- **Russian** - Native
+- **Belarussian** - Native
+- **English** - A2
