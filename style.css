@@ -111,6 +111,24 @@ hr {
     margin-right: 5px;
 }
 
+footer {
+    background-color: #979696;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 20px;
+    position: relative;
+    height: 80px;
+}
+.rs_footer_logo {
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.footer_logo {
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
 .text {
     text-indent : 10px;
     line-height : 1.5;
