@@ -61,6 +61,14 @@ a.unattractivelink {
     box-shadow: 0 0 0 5px rgb(226, 226, 226), 0 0 13px #333;
     /* Параметры теней */
 }
+.flaground {
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+    box-shadow: 0 0 0 1px rgb(226, 226, 226), 0 0 2px #333;
+    float: left;
+    margin-right: 5px;
+}
 
 .fig {
     text-align: center;
