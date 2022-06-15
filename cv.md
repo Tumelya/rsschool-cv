@@ -7,7 +7,7 @@
 #### **Discord:** @mtumelia #8692
 #### **Telegram:** @mtumelia
 #### **Instagram:** @mtumelia
-#### **LinkedIn:** [Mariya Tumelya](https://www.linkedin.com/in/mariya-tumelya-111278210/)
+#### **LinkedIn:** [Mariya Tumelya](https://www.linkedin.com/in/mtumelia/)
 
 ## About myself
 I studied for four years at the Belarusian State University, two of them at the Faculty of Mechanics and Mathematics and the other two at the Faculty of Radio Physics and Computer Technologies on the specialty "Computer Security". 
